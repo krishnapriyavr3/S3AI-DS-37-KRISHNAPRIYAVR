@@ -1,4 +1,5 @@
 // c code for linear search x in arr[].
+// krishnapriyavr_37
 #include<stdio.h>
 int search(int arr[],int N,int x)
 {
