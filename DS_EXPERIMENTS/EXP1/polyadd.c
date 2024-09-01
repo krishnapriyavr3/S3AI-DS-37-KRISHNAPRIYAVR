@@ -86,6 +86,7 @@ while(j<t2)
  p3[k].coeff=p2[j].coeff;
 	p3[k].expo=p2[j].expo;
 	j++;
+	k++;
 }
 return k;
 }
