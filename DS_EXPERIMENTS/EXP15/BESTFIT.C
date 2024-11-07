@@ -1,5 +1,4 @@
 //PROGRAM OF BEST FIT
-//Swaliha_59
 #include <stdio.h>
 void implimentBestFit(int blockSize[], int blocks, int processSize[], int proccesses)
 {
